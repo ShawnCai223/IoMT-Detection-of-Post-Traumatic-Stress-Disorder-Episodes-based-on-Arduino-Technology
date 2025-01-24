@@ -1,0 +1,4 @@
+Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events, or set of circumstances.
+Arduino UNO board contains a microcontroller that is able to be programmed to sense and control objects in the physical world. By responding to sensors and inputs, the Arduino board is able to interact with an extensive array of outputs.
+ThingSpeak is an IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts. 
+Detecting changes in the body's indicators during a PTSD episode can help us understand more about PTSD as a mental illness, which in turn can help us know how to prevent and treat PTSD.
